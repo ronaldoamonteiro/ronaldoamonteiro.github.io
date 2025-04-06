@@ -36,6 +36,7 @@ __Bachelor of Science in Data Science, BYU-Idaho__
 
 `2023`
 __Associate of Applied Science in Computer Information Systems, BYU-Idaho__
+
 - Programming
 - SQL
 - Web Development
