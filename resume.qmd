@@ -1,89 +1,85 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ronaldo Monteiro's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Ronaldo Monteiro
+Data and Product Analyst, BYU-Idaho Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:ronaldoam@byui.edu">ronaldoam@byui.edu</a>
+| <a href="https://www.linkedin.com/in/ronaldoam">LinkedIn Profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing a B.S. in Data Science at Brigham Young University - Idaho (Expected Winter 2026)
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Data Analysis & Visualization, Product Strategy, Market Intelligence
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+SQL, Python, Tableau, Excel, Sales & Marketing Analytics, Data Storytelling, IoT Product Development
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected Winter 2026`
+__Bachelor of Science in Data Science, BYU-Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Data Analysis & Visualization
+- Statistics
+- Product Management
 
-- Sizar
+`2023`
+__Associate of Applied Science in Computer Information Systems, BYU-Idaho__
+- Programming
+- SQL
+- Web Development
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Work Experience
 
-- Fellow
+`Nov 2022 – Nov 2023`
+__Product Analyst (R&D), Hana Electronics__
 
+- Led data-driven analysis for IoT projects.
+- Defined product vision and strategy using market research and competitor benchmarking.
+- Collaborated with cross-functional engineering teams to enhance product performance.
 
+`Aug 2020 – Oct 2022`
+__Marketing & Sales Manager, Smart Conversation__
 
-## Awards
+- Developed marketing strategies boosting student enrollment and engagement.
+- Analyzed customer behaviors to optimize pricing models.
+- Improved retention rates through data-driven insights.
 
-`2012`
-President, *Royal Society*, London, UK
+`Jun 2012 – Dec 2016`
+__Sales & Business Analyst, Eurofarma Pharmaceutical Industry__
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Conducted market analysis (DDD, MDTR, AUDIT) influencing sales strategies.
+- Presented data-driven reports to regional managers for strategic decision-making.
+- Designed interactive dashboards transforming data into actionable insights.
 
 
-## Occupation
+## Technical Skills
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Data Analysis & Visualization (SQL, Python, Tableau, Excel)
+- Statistics
+- Product Management & Strategy
+- Sales & Marketing Analytics
+- Data Storytelling
 
 
+## Languages
 
-<!-- ### Footer
+- English
+- Portuguese
 
-Last updated: May 2013 -->
+
+<!-- Footer
+
+Last updated: April 2025
+-->
