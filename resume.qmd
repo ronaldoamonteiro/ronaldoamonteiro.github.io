@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Ronaldo Monteiro's CV
+title: Professional Resume
 ---
 
 # Ronaldo Monteiro
