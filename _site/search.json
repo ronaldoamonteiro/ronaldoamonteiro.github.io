@@ -63,25 +63,25 @@
     "text": "Expected Winter 2026 Bachelor of Science in Data Science, BYU-Idaho\n\nData Analysis & Visualization\nStatistics\nProduct Management\n\n2023 Associate of Applied Science in Computer Information Systems, BYU-Idaho\n\nProgramming\nSQL\nWeb Development"
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
     "title": "Ronaldo Monteiro’s CV",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "text": "Nov 2022 – Nov 2023 Product Analyst (R&D), Hana Electronics\n\nLed data-driven analysis for IoT projects.\nDefined product vision and strategy using market research and competitor benchmarking.\nCollaborated with cross-functional engineering teams to enhance product performance.\n\nAug 2020 – Oct 2022 Marketing & Sales Manager, Smart Conversation\n\nDeveloped marketing strategies boosting student enrollment and engagement.\nAnalyzed customer behaviors to optimize pricing models.\nImproved retention rates through data-driven insights.\n\nJun 2012 – Dec 2016 Sales & Business Analyst, Eurofarma Pharmaceutical Industry\n\nConducted market analysis (DDD, MDTR, AUDIT) influencing sales strategies.\nPresented data-driven reports to regional managers for strategic decision-making.\nDesigned interactive dashboards transforming data into actionable insights."
   },
   {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
     "title": "Ronaldo Monteiro’s CV",
     "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+    "text": "Data Analysis & Visualization (SQL, Python, Tableau, Excel)\nStatistics\nProduct Management & Strategy\nSales & Marketing Analytics\nData Storytelling"
   },
   {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
     "title": "Ronaldo Monteiro’s CV",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "English\nPortuguese"
   },
   {
     "objectID": "Machine_Learning/project5.html",
@@ -484,26 +484,5 @@
       "Story Telling",
       "Project 5"
     ]
-  },
-  {
-    "objectID": "resume.html#work-experience",
-    "href": "resume.html#work-experience",
-    "title": "Ronaldo Monteiro’s CV",
-    "section": "",
-    "text": "Nov 2022 – Nov 2023 Product Analyst (R&D), Hana Electronics\n\nLed data-driven analysis for IoT projects.\nDefined product vision and strategy using market research and competitor benchmarking.\nCollaborated with cross-functional engineering teams to enhance product performance.\n\nAug 2020 – Oct 2022 Marketing & Sales Manager, Smart Conversation\n\nDeveloped marketing strategies boosting student enrollment and engagement.\nAnalyzed customer behaviors to optimize pricing models.\nImproved retention rates through data-driven insights.\n\nJun 2012 – Dec 2016 Sales & Business Analyst, Eurofarma Pharmaceutical Industry\n\nConducted market analysis (DDD, MDTR, AUDIT) influencing sales strategies.\nPresented data-driven reports to regional managers for strategic decision-making.\nDesigned interactive dashboards transforming data into actionable insights."
-  },
-  {
-    "objectID": "resume.html#technical-skills",
-    "href": "resume.html#technical-skills",
-    "title": "Ronaldo Monteiro’s CV",
-    "section": "",
-    "text": "Data Analysis & Visualization (SQL, Python, Tableau, Excel)\nStatistics\nProduct Management & Strategy\nSales & Marketing Analytics\nData Storytelling"
-  },
-  {
-    "objectID": "resume.html#languages",
-    "href": "resume.html#languages",
-    "title": "Ronaldo Monteiro’s CV",
-    "section": "",
-    "text": "English\nPortuguese"
   }
 ]
