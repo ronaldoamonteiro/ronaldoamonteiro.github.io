@@ -401,7 +401,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Skills & Tools\n\nLanguages: Python, SQL, R\nStatistics: Descriptive & Inferential Statistics, Hypothesis Testing, Regression Analysis\nData Handling: Pandas, NumPy, Excel\nVisualization: Tableau\nDatabases: MySQL\nMachine Learning: Scikit-learn, Regression, Classification\n\n\n\n\nProjects Summary\n\n📊 Child Health Case Study: Data wrangling and visualization in Tableau to assess child growth in multiple countries.\n🦠 Tuberculosis Dashboard: Identified global TB trends using WHO data and built visual stories in Tableau.\n🏃‍♂️ Marathon Data Analysis: Explored marathon race results to uncover performance trends by age, gender, and pace.\n\n\nMarkDown Basics\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html#title-2-header",

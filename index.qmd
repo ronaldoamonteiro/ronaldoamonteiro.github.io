@@ -1,10 +1,35 @@
 ---
 title: "About Me"
-subtitle: "Data Scientist with expertise in data analysis, market intelligence, and product strategy, driving business growth through data-driven decision-making. Experienced in technology, education, and pharmaceuticals, leveraging both quantitative and qualitative insights to optimize product development and sales strategies. \n Currently pursuing a B.S. in Data Science at BYU–Idaho, with strong skills in SQL, data visualization, and statistics. Passionate about transforming data into strategic opportunities and bridging the gap between technical and business teams."
-# use quarto markdown to 
+subtitle: |
+  Data Scientist with expertise in data analysis, market intelligence, and product strategy, 
+  driving business growth through data-driven decision-making. Experienced in technology, 
+  education, automobile, and pharmaceuticals, leveraging both quantitative and qualitative insights 
+  to optimize product development and sales strategies.
+
+  Currently pursuing a B.S. in Data Science at BYU–Idaho, with strong skills in SQL, 
+  data visualization, and statistics. Passionate about transforming data into strategic 
+  opportunities and bridging the gap between technical and business teams.
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Skills & Tools
+
+- **Languages**: Python, SQL, R
+- **Statistics**: Descriptive & Inferential Statistics, Hypothesis Testing, Regression Analysis
+- **Data Handling**: Pandas, NumPy, Excel
+- **Visualization**: Tableau
+- **Databases**: MySQL
+- **Machine Learning**: Scikit-learn, Regression, Classification
+
+---
+
+# Projects Summary
+
+- 📊 **Child Health Case Study**: Data wrangling and visualization in Tableau to assess child growth in multiple countries.
+- 🦠 **Tuberculosis Dashboard**: Identified global TB trends using WHO data and built visual stories in Tableau.
+- 🏃‍♂️ **Marathon Data Analysis**: Explored marathon race results to uncover performance trends by age, gender, and pace. 
+
+
+---
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+
